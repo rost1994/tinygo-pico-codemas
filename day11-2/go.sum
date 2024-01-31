@@ -1,0 +1,4 @@
+github.com/Nondzu/ssd1306_font v1.0.1 h1:aq6pBj85oo/Yed++KvUv1Fr3Vi5yPSCD+++xyvhBhW8=
+github.com/Nondzu/ssd1306_font v1.0.1/go.mod h1:4jOtOikavAr73XAYCTVwkGwwarDNSG5yNX4EEp6Lazo=
+tinygo.org/x/drivers v0.26.0 h1:7KSIYssX0ki0dd7yBYkVZWSG0kt8vrZNS0It73TymcA=
+tinygo.org/x/drivers v0.26.0/go.mod h1:X7utcg3yfFUFuKLOMTZD56eztXMjpkcf8OHldfTBsjw=
